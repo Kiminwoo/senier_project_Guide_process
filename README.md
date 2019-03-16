@@ -112,3 +112,17 @@ Through study, I learned the following things.
 6.game_all_tags
 
 7.game_languages
+
+
+2019-03-16
+
+- Modify code 
+
+( + Tag retrieval automation tool.py ) 
+
+
+When you import data from Steam_API and save it to Excel, only one column is output to Excel, the value is changed in one column, and 
+
+only one column is output
+
+I have solved this part.
