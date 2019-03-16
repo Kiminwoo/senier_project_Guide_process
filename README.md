@@ -116,10 +116,7 @@ Through study, I learned the following things.
 
 2019-03-16
 
-- Modify code 
-
-( + Tag retrieval automation tool.py ) 
-
+- Modify code ( + Tag retrieval automation tool.py ) 
 
 When you import data from Steam_API and save it to Excel, only one column is output to Excel, the value is changed in one column, and 
 
