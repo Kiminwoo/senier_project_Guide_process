@@ -129,3 +129,9 @@ I have solved this part.
 - Modify code ( + Tag retrieval automation tool.py ) 
 
 Add multiple parts of tag information at once to save it in Excel
+
+2019-03-19
+
+- Mysql Python connection ( + Put_data_MysqlDB.py ) 
+
+I have read an Excel file created using Automatic_API and added it to MysqlDB automatically.
