@@ -87,7 +87,7 @@ Through study, I learned the following things.
    Those with high Metacritic scores could be found at generally lower prices.
 
 
-2019-02-10
+2019.02.10
 
 - Based on the Steamspy API, I created an automated tool using tags.
 
@@ -114,7 +114,7 @@ Through study, I learned the following things.
 7.game_languages
 
 
-2019-03-16
+2019.03.16
 
 - Modify code ( + Tag retrieval automation tool.py ) 
 
@@ -124,13 +124,13 @@ only one column is output
 
 I have solved this part.
 
-2019-03-19
+2019.03.19
 
 - Modify code ( + Tag retrieval automation tool.py ) 
 
 Add multiple parts of tag information at once to save it in Excel
 
-2019-03-19
+2019.03.19
 
 - Mysql Python connection ( + Put_data_MysqlDB.py ) 
 
