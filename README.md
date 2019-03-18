@@ -123,3 +123,9 @@ When you import data from Steam_API and save it to Excel, only one column is out
 only one column is output
 
 I have solved this part.
+
+2019-03-19
+
+- Modify code ( + Tag retrieval automation tool.py ) 
+
+Add multiple parts of tag information at once to save it in Excel
