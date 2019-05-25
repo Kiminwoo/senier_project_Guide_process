@@ -47,9 +47,9 @@ I refer to the following address.
 <h1>2019.01.24</h1> 
 <blockquote>
 - I have compared Genre, Metacritic, and RecommendationCount in Steam games. I refer to the following site. 
-
+</blockquote>
 --> https://github.com/Kiminwoo/steam-data/blob/master/analysis/analysis-elh.ipynb 
-<blockquote>
+
 ( + Steam_game_Analysis_GenreVsRecommendationCountVsMetacritic.ipynb ) 
 <blockquote>
 Through study, I learned the following things.
