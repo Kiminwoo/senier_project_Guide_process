@@ -8,19 +8,19 @@
 
 //Author Kim In-woo 
 
-
+</br>
 <h1>2018.12.27</h1>
 
 - ( + Callaborative_Filtering_Practice1.py ) 
-
+</br>
 <h1>2018.12.30</h1>
    
 - ( + Collabarative Filtering2.py ) 
-
+</br>
 <h1>2019.01.01</h1>
 
 - ( + Collaborative_Filtering3.py ) 
-
+</br>
 <h1>2019.01.12</h1>
 <blockquote>
 - I have studied how to use Decision-tree based on iris and stagec data.( + Decision tree.R) 
@@ -30,7 +30,7 @@
 - I studied with reference to the following address --> (https://github.com/Kiminwoo/steam-data ) 
 </blockquote>
 ( + Steam_Game_Analysis.ipynb)
-
+</br>
 <h1>2019.01.20</h1>
 <blockquote>
 - In Steam games, I compared the recommendations of Free Game and Pair games. 
@@ -43,7 +43,7 @@ I refer to the following address.
 </blockquote>
 ( + Steam_game_FreeVsPair_rating_Pergame.ipynb ) 
 
-
+</br>
 <h1>2019.01.24</h1> 
 <blockquote>
 - I have compared Genre, Metacritic, and RecommendationCount in Steam games. I refer to the following site. 
@@ -92,7 +92,7 @@ Through study, I learned the following things.
 
    Those with high Metacritic scores could be found at generally lower prices.
 </blockquote>
-
+</br>
 <h1>2019.02.10</h1>
 <blockquote>
 - Based on the Steamspy API, I created an automated tool using tags.
@@ -120,7 +120,7 @@ Through study, I learned the following things.
 
 7.game_languages
 </blockquote>
-
+</br>
 <h1>2019.03.16</h1>
 
 - Modify code ( + Tag retrieval automation tool.py ) 
