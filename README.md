@@ -25,6 +25,7 @@
 <blockquote>
 - I have studied how to use Decision-tree based on iris and stagec data.( + Decision tree.R) 
 </blockquote>
+</br>
 <h1>2019.01.20</h1> 
 <blockquote>
 - I studied with reference to the following address --> (https://github.com/Kiminwoo/steam-data ) 
@@ -131,12 +132,14 @@ only one column is output
 
 I have solved this part.
 </blockquote>
+</br>
 <h1>2019.03.19</h1>
 
 - Modify code ( + Tag retrieval automation tool.py ) 
 <blockquote>
 Add multiple parts of tag information at once to save it in Excel
 </blockquote>
+</br>
 <h1>2019.03.19</h1>
 
 - Mysql Python connection ( + Put_data_MysqlDB.py ) 
